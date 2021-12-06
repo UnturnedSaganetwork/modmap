@@ -4,6 +4,8 @@ https://steamcommunityaredfiles/filedetails/?id=%222639610372"
 Unturned Modunun sayılı olan rakamlara id denir bu idleri ss teki gibi yapınız son id ye , bunu eklemeyiniz değier idlere ekleyiniz
 WorkshopDownloadConfig.json Dosyasının 
 
+not:commands.dat ki Map yazısının Map'in adını koyarken mapin dosya adını yazınız
+
 id yi
   {
   "File_IDs": [
