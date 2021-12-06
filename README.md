@@ -14,3 +14,4 @@ id yi {
 Şöyle yazıcaksınız  aynı şekilde Map için de
 
 https://i.hizliresim.com/c19y6bx.png
+![alt text](https://i.hizliresim.com/c19y6bx.png)
